@@ -3,7 +3,7 @@ uvicorn
 OpenCV2
 Pyzbar
 Pydantic
-numpy as np
+numpy
 os
 glob
 datetime
@@ -16,3 +16,4 @@ HTMLResponse
 StreamingResponse
 BaseModel
 decode
+
