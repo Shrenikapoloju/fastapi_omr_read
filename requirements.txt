@@ -1,19 +1,9 @@
 fastapi
 uvicorn
-OpenCV2
-Pyzbar
-Pydantic
+opencv-python-headless
 numpy
-os
-glob
-datetime
-json
-asyncio
-HTTPException
-UploadFile
-File
-HTMLResponse
-StreamingResponse
-BaseModel
-decode
+pyzbar
+pydantic
+
+
 
