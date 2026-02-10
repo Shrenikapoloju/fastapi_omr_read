@@ -1,2 +1,18 @@
 fastapi
 uvicorn
+OpenCV2
+Pyzbar
+Pydantic
+numpy as np
+os
+glob
+datetime
+json
+asyncio
+HTTPException
+UploadFile
+File
+HTMLResponse
+StreamingResponse
+BaseModel
+decode
